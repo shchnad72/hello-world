@@ -1,2 +1,1 @@
-# hello-world
-Just check how it works
+concole.log('Next step in learning Nodeje);
