@@ -1,2 +1,2 @@
 # hello-world
-Just check how it waorks
+Just check how it works
